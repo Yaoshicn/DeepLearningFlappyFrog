@@ -3,6 +3,7 @@
 **Just simple reproduce the deep learning flappy bird. For further information please click [here](https://github.com/yenchenlin1994/DeepLearningFlappyBird).**
 
 **Abrupt MO is not recommended**
+**暴力膜蛤不可取**
 
 <img src="./images/flappy_frog_demp.gif" width="250">
 
